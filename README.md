@@ -17,7 +17,7 @@ Written by: Abderrahim BOUHENACHE
 Date: 08/05/2025
 version: V01
 
-This folder contains 3 sub-folders:
+This repository contains 3 sub-folders:
 
 "Bouhenache_et_al_2025_FCR_data" contains the excel file "Bouhenache_et_al_2025_FCR_data.xlsx" for the main data used in the study. 
    The excel file comprises multiple sheets, each with a header row for column description. 
